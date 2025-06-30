@@ -75,7 +75,7 @@ The SVM decision boundary is visualized to illustrate the classifier's separabil
 
 ## Clone the repository:
 ## Results
-Classifier Accuracy: The SVM classifier achieved an accuracy of XX% on the test set.
+Classifier Accuracy: The SVM classifier achieved an accuracy of 100% on the test set.
 
 Decision Boundary: The decision boundary demonstrates the model's ability to separate the three species based on petal dimensions.
 
